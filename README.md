@@ -1,4 +1,4 @@
-# COSC2469 - Data Structures & Algorithms Algorithms & Analysis 🖥️
+# COSC2469 - Data Structures & Algorithms & Analysis 🖥️
 # Assignment 2: Group Project
 
 **Group: 7**
